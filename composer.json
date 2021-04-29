@@ -26,9 +26,9 @@
         "friendsofphp/php-cs-fixer": "^2.18",
         "phpstan/phpstan": "^0.12.82",
         "phpunit/phpunit": "^9.5",
-        "vimeo/psalm": "^4.7",
+        "react/event-loop": "^1.1.1",
         "swoole/ide-helper": "^4.6.5",
-        "react/event-loop": "^1.1.1"
+        "vimeo/psalm": "^4.7"
     },
     "suggest": {
         "amphp/amp": "Provide asynchronous with AMP",
